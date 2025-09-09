@@ -2,7 +2,7 @@
  *
  * Created by: arthur
  * Created on: Sep 2025
- * This program shows hello arthur
+ * This program shows hello arthur!
 */
 
 basic.showString('Hello, arthur!')
